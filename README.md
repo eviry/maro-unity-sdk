@@ -16,6 +16,8 @@ https://developers.marogame.net/condition_of_use/
 https://github.com/eviry/maro-unity-sdk/wiki  
 
 ##リリースノート
+* v1.0.0.1 / 2014.2.10  
+ - デバッグログ整理
 * v1.0.0.0 / 2014.2.5  
  - 配布開始
 
