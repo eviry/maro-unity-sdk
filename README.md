@@ -16,6 +16,14 @@ https://developers.marogame.net/condition_of_use/
 https://github.com/eviry/maro-unity-sdk/wiki  
 
 ##リリースノート
+* v1.1.0.0 / 2014.3.25  
+ - ゲーム音声の録音に対応
+ - 共有動画一覧のソート表示
+ - API追加
+        * ShowMovieList / 動画一覧表示
+        * SetLeaderboardRegister / 動画一覧ランキング設定
+        * SetPoint / 動画一覧ランキング設定
+        * SetExtra / メタ情報設定
 * v1.0.0.1 / 2014.2.10  
  - デバッグログ整理
 * v1.0.0.0 / 2014.2.5  
