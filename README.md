@@ -19,6 +19,7 @@ https://github.com/eviry/maro-unity-sdk/wiki
 * v1.1.0.0 / 2014.3.25  
  - ゲーム音声の録音に対応
  - 共有動画一覧のソート表示
+ - 動画アップロード速度の短縮
  - API追加
         * ShowMovieList / 動画一覧表示
         * SetLeaderboardRegister / 動画一覧ランキング設定
