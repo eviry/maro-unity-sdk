@@ -16,6 +16,11 @@ https://developers.marogame.net/condition_of_use/
 https://github.com/eviry/maro-unity-sdk/wiki  
 
 ##リリースノート
+* v1.1.0.1 / 2014.4.16  
+ - 不具合修正
+        * パフォーマンス向上・CPU負荷軽減
+        * アップロード時のクラッシュ問題修正
+        * 音声録音OFF時のクラッシュ問題修正
 * v1.1.0.0 / 2014.3.25  
  - ゲーム音声の録音に対応
  - 共有動画一覧のソート表示
