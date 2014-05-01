@@ -16,6 +16,11 @@ https://developers.marogame.net/condition_of_use/
 https://github.com/eviry/maro-unity-sdk/wiki  
 
 ##リリースノート
+* v1.2.0.0 / 2014.5.1  
+ - 音声実況に対応
+ - API追加
+        * SetEnableMicrophone / 音声実況機能
+        * IsEnableMicrophone / 音声実況機能
 * v1.1.0.1 / 2014.4.16  
  - 不具合修正
         * パフォーマンス向上・CPU負荷軽減
