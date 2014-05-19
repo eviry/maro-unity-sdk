@@ -16,6 +16,8 @@ https://developers.marogame.net/condition_of_use/
 https://github.com/eviry/maro-unity-sdk/wiki  
 
 ##リリースノート
+* v1.2.1.0 / 2014.5.19  
+ - 横画面のゲームの録画に対応
 * v1.2.0.0 / 2014.5.1  
  - 音声実況に対応
  - API追加
